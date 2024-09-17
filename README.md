@@ -2,7 +2,7 @@ Weather App 🌦️
 
 This Weather App is a simple web application that allows users to search for current weather information in any city worldwide. The app makes use of the OpenWeatherMap API to fetch weather data and display it on the page.
 
-![Weather App Screenshot](https://github.com/AthavullaShaik/weather-app/weather.png)
+![Weather App Screenshot]([https://github.com/AthavullaShaik/weather-app/weather.png](https://github.com/AthavullaShaik/Weather_Forecast/blob/main/weather.png))
 
 Features ✨
 
